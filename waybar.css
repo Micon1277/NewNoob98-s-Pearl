@@ -1,0 +1,15 @@
+@define-color background alpha(#1e1e2e,0.0);
+@define-color foreground #ffffff;
+
+.modules-right,
+.modules-left,
+.modules-center {
+  background: alpha(#1e1e2e, 0.75);
+  border-radius: 10px;
+  padding: 7px 16px;
+  margin: 2px 6px;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+
+
